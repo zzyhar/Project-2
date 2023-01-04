@@ -7,7 +7,7 @@ section including shopping cart, contact section, blog and shopping section.
 Also it has smooth scrolling effect and tablet version.
 
 # GitHub Pages: 
-This project is available on GitHub Pages: https://zzyhar.github.io/Project-2/
+This project is available on GitHub Pages: https://zzyhar.github.io/Simple-e-commerce/
 
 ## Used Languages
   - HTML
